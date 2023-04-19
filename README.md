@@ -4,4 +4,4 @@ A clean and nice web portfolio for designer or developer. That includes almost e
 
 
 
-![preview img](/preview.png)
+![preview img](/Preview.png)
