@@ -97,7 +97,10 @@ body {
   color: #117964;
   transition: color 0.3s ease-in-out;
 }
-
+.logo-a{
+text-decoration:none;
+color:black
+}
 .logo {
   order: 1;
   font-size: 2.3rem;
